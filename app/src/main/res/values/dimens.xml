@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="title_margin">5dp</dimen>
+    <dimen name="title_size">25sp</dimen>
+    <dimen name="corner_radius">30dp</dimen>
+</resources>

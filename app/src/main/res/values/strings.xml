@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Covid App</string>
+    <string name="tv_title1">Daily covid-19 data</string>
+    <string name="tv_title2">for Italy</string>
+    <string name="tv_new_cases">New cases: %d</string>
+    <string name="tv_active_cases">Active: %d</string>
+    <string name="tv_critical_cases">Critical cases: %d</string>
+</resources>
